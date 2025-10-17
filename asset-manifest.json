@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SarathaRamesh/To-do-App/static/css/main.dac58cf5.css",
+    "main.js": "/SarathaRamesh/To-do-App/static/js/main.749150ad.js",
+    "index.html": "/SarathaRamesh/To-do-App/index.html",
+    "main.dac58cf5.css.map": "/SarathaRamesh/To-do-App/static/css/main.dac58cf5.css.map",
+    "main.749150ad.js.map": "/SarathaRamesh/To-do-App/static/js/main.749150ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac58cf5.css",
+    "static/js/main.749150ad.js"
+  ]
+}
